@@ -1,6 +1,8 @@
 # Geshan Public Speaking
 
-A timeline of most of my public speaking done in the past years. Inspired by other public-speaking repos like [these](https://github.com/ahmetb/public-speaking) [ones](https://github.com/danicat/public-speaking).
+A timeline of most of my public speaking done in the past years. All my talks are in English.
+
+Inspired by other public-speaking repos like [these](https://github.com/ahmetb/public-speaking) [ones](https://github.com/danicat/public-speaking).
 
 ## Speaker Bio
 
