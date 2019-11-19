@@ -37,3 +37,9 @@ Geshan is a seasoned software engineer, with more than a decade of software engi
 
 ![Speaking about Microservics at DevOps Days NewCastle 2018](https://pbs.twimg.com/media/DqWTigvWoAAyifG?format=jpg&name=4096x4096)
 
+## Social
+
+* Blog: [https://geshan.com.np](https://geshan.com.np)
+* Twitter: [https://twitter.com/geshan](https://twitter.com/geshan)
+* Github: [https://github.com/geshan](https://github.com/geshan)
+* LinkedIn: [https://www.linkedin.com/in/geshan/](https://www.linkedin.com/in/geshan/)
