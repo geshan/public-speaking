@@ -5,7 +5,7 @@ A timeline of most of my public speaking done in the past years. All my talks ar
 I am open to speaking offers, mainly in Sydney, Australia. The best way to reach me is by 
 [email](mailto:geshan@gmail.com?subject=Interested%20for%20a%20talk%3F), thanks!.
 
---
+---
 
 Inspired by other public-speaking repos like [these](https://github.com/ahmetb/public-speaking) 
 [ones](https://github.com/danicat/public-speaking).
@@ -17,6 +17,8 @@ Currently, in Sydney, Australia serving THE ICONIC as a senior software engineer
 REST architecture, microservices and servereless. He has spoken at tech conferences in 4 continents. 
 He is actively involved with the developer community in his hometown Kathmandu, Nepal. He occasionally blogs 
 in his free time.
+
+---
 
 ## Future
 
@@ -69,6 +71,8 @@ talks from as early as [2010](https://geshan.com.np/blog/2010/08/drupal-non-tech
 ### Laracon EU Amsterdam 2016
 
 ![Speaking about Chatops at Laracon EU Amsterdam 2016](https://user-images.githubusercontent.com/170554/69105831-aff09680-0ac0-11ea-9e1f-908a25567877.jpg)
+
+---
 
 ## Social
 
