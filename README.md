@@ -1,6 +1,6 @@
 # Geshan Public Speaking
 
-A timeline of most of my public speaking done in the past years. All my talks are in English. 
+A timeline of most of my public speaking done for tech conferences and meetups. All my talks are in English. 
 
 I am open to speaking offers, mainly in Sydney, Australia. The best way to reach me is by 
 [email](mailto:geshan@gmail.com?subject=Interested%20for%20a%20talk%3F), thanks!.
