@@ -2,11 +2,15 @@
 
 A timeline of most of my public speaking done in the past years. All my talks are in English.
 
-Inspired by other public-speaking repos like [these](https://github.com/ahmetb/public-speaking) [ones](https://github.com/danicat/public-speaking).
+Inspired by other public-speaking repos like [these](https://github.com/ahmetb/public-speaking) 
+[ones](https://github.com/danicat/public-speaking).
 
 ## Speaker Bio
 
-Geshan is a seasoned software engineer, with more than a decade of software engineering experience. Currently, in Sydney, Australia serving THE ICONIC as a senior software engineer. He has a keen interest in REST architecture and microservices. He is actively involved with the developer community in his hometown Kathmandu, Nepal. He occasionally blogs in his free time.
+Geshan is a seasoned software engineer, with more than a decade of software engineering experience. 
+Currently, in Sydney, Australia serving THE ICONIC as a senior software engineer. He has a keen interest in 
+REST architecture and microservices. He is actively involved with the developer community in his hometown 
+Kathmandu, Nepal. He occasionally blogs in his free time.
 
 ## Future
 
@@ -38,7 +42,8 @@ Geshan is a seasoned software engineer, with more than a decade of software engi
 
 
 * I have not included some talks done internally for places I work or worked for and when I spoke at Colleges. 
-* A longer list is available on by [blog](https://geshan.com.np/blog/categories/talks/) with talks from as early as 2010.
+* A longer (but less organized) list is available on by [blog](https://geshan.com.np/blog/categories/talks/) with 
+talks from as early as [2010](https://geshan.com.np/blog/2010/08/drupal-non-technical-introduction-at/).
 
 ## Some Pictures
 
