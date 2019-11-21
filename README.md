@@ -1,6 +1,9 @@
 # Geshan Public Speaking
 
-A timeline of most of my public speaking done in the past years. All my talks are in English.
+A timeline of most of my public speaking done in the past years. All my talks are in English. 
+
+I am open to speaking offers, mainly in Sydney, Australia. The best way to reach me is by 
+[email](mailto:geshan@gmail.com?subject=Interested%20for%20a%20talk%3F), thanks!.
 
 Inspired by other public-speaking repos like [these](https://github.com/ahmetb/public-speaking) 
 [ones](https://github.com/danicat/public-speaking).
@@ -41,7 +44,8 @@ Kathmandu, Nepal. He occasionally blogs in his free time.
 | 01-Apr-2016 | [CodeMotion Dubai 2016](https://dubai2016.codemotionworld.com/) 🇦🇪                                                                | [Embrace chatops, stop installing deployment software](https://www.slideshare.net/geshan/embrace-chatops-stop-installing-deployment-software-draft-1)                                                                         | [link](https://www.youtube.com/watch?v=GVa1I2QiZs4)             | ~40        | [here](https://geshan.com.np/blog/2016/04/embrace-chatops-stop-installing-deployment-software/)                                  |
 
 
-* I have not included some talks done internally for places I work or worked for and when I spoke at Colleges. 
+* I have not included some talks done internally for places I work or worked for and when I spoke at colleges 
+in Kathmandu, Nepal. 
 * A longer (but less organized) list is available on by [blog](https://geshan.com.np/blog/categories/talks/) with 
 talks from as early as [2010](https://geshan.com.np/blog/2010/08/drupal-non-technical-introduction-at/).
 
