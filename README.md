@@ -12,8 +12,9 @@ Inspired by other public-speaking repos like [these](https://github.com/ahmetb/p
 
 Geshan is a seasoned software engineer, with more than a decade of software engineering experience. 
 Currently, in Sydney, Australia serving THE ICONIC as a senior software engineer. He has a keen interest in 
-REST architecture and microservices. He is actively involved with the developer community in his hometown 
-Kathmandu, Nepal. He occasionally blogs in his free time.
+REST architecture, microservices and servereless. He has spoken at tech conferences in 4 continents. 
+He is actively involved with the developer community in his hometown Kathmandu, Nepal. He occasionally blogs 
+in his free time.
 
 ## Future
 
