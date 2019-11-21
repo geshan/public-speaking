@@ -50,7 +50,7 @@ in Kathmandu, Nepal.
 * A longer (but less organized) list is available on by [blog](https://geshan.com.np/blog/categories/talks/) with 
 talks from as early as [2010](https://geshan.com.np/blog/2010/08/drupal-non-technical-introduction-at/).
 * You can go to this [Youtube playlist](https://www.youtube.com/watch?v=bw3-IPw40Ic&list=PLhTqkNYfkucwyaMujDSSPkqQj5uTO9alh)
-which has 7 of my talks from the past years.
+which has 7 of my talks.
 
 ## Some Pictures
 
