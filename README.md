@@ -5,6 +5,8 @@ A timeline of most of my public speaking done in the past years. All my talks ar
 I am open to speaking offers, mainly in Sydney, Australia. The best way to reach me is by 
 [email](mailto:geshan@gmail.com?subject=Interested%20for%20a%20talk%3F), thanks!.
 
+--
+
 Inspired by other public-speaking repos like [these](https://github.com/ahmetb/public-speaking) 
 [ones](https://github.com/danicat/public-speaking).
 
@@ -20,7 +22,7 @@ in his free time.
 
 | Date        | Event                                                                                                                  | Talk/Slides 📜                                                                                                                                                                                                                 | Video 📹                                                       | Attendance | Mention                      |
 |-------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|------------|-------------------------------|
-| 26-Nov-2019 | [GDG Cloud Sydney Meetup - Nov 2019](https://www.meetup.com/gdgcloudsydney/events/266272518/)  🇦🇺                      | [From 0 to working serverless url for a containerized app with Google Cloud Run](https://www.slideshare.net/geshan/from-0-to-working-serverless-url-for-a-containerized-app-with-google-cloud-run-2)                          | -                                                               | -          | -                             |
+| 26-Nov-2019 | [GDG Cloud Sydney Meetup - Nov 2019](https://www.meetup.com/gdgcloudsydney/events/266272518/) 🇦🇺                      | [From 0 to working serverless url for a containerized app with Google Cloud Run](https://www.slideshare.net/geshan/from-0-to-working-serverless-url-for-a-containerized-app-with-google-cloud-run-2)                          | -                                                               | -          | -                             |
 
 ## Past
 
