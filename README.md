@@ -10,7 +10,7 @@ Inspired by other public-speaking repos like [these](https://github.com/ahmetb/p
 
 ## Speaker Bio
 
-Geshan is a seasoned software engineer, with more than a decade of software engineering experience. 
+Geshan is a seasoned software engineer, with more than 14 years of software engineering experience. 
 Currently, in Sydney, Australia serving Simply Wall St. as a senior software engineer. He has a keen interest in 
 REST architecture, microservices and servereless. He has spoken at tech conferences in 4 continents. 
 He is actively involved with the developer community in his hometown Kathmandu, Nepal. He blogs 
