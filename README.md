@@ -10,11 +10,7 @@ Inspired by other public-speaking repos like [these](https://github.com/ahmetb/p
 
 ## Speaker Bio
 
-Geshan is a seasoned software engineer, with over 15 years of software engineering experience. 
-Currently, in Sydney, Australia serving Simply Wall St. as a senior software engineer. With keen interest in 
-REST architecture, microservices, Agile software engineering, and serverless, he has spoken at tech conferences on 4 continents. 
-He is actively involved with the developer community and is a Google Developer Expert (GDE) for Google Cloud Platform (GCP). He has a well maintanied
- tech [blog](https://geshan.com.np) where he shares his views and ideas.
+Geshan is a seasoned software engineer, with over 15 years of software engineering experience. Currently, in Sydney, Australia serving Simply Wall St. as a senior software engineer. With a keen interest in REST architecture, microservices, Agile software engineering, and serverless, he has spoken at tech conferences on 4 continents. He is actively involved with the developer community and is a Google Developer Expert (GDE) for the Google Cloud Platform (GCP). He has a well-maintained tech [blog](https://geshan.com.np) where he shares his views and ideas.
 
 ## Future
 
