@@ -14,7 +14,7 @@ Geshan is a seasoned software engineer, with over 15 years of software engineeri
 
 ## Future
 
-* [GDG Cloud Sydney Meetup May 2023] - Topic: Free GCP credits + a side project (ATJ) = 10+ first full-time tech jobs
+* [GDG Cloud Sydney Meetup May 2023](https://www.meetup.com/gdgcloudsydney/events/292947927/) - Topic: Free GCP credits + a side project (ATJ) = 10+ first full-time tech jobs
 * [Another meetup in May] - TBC
 
 ## Past
