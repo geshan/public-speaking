@@ -14,7 +14,8 @@ Geshan is a seasoned software engineer, with over 15 years of software engineeri
 
 ## Future
 
-* Nothing planned as of now
+* One talk in Sep-2023
+* One talk in Oct-2023
 
 ## Past
 
