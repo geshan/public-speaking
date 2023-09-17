@@ -13,7 +13,7 @@ Geshan is a seasoned software engineer, with over 15 years of software engineeri
 
 ## Future
 
-* From 0 to working serverless url for a containerized app with Google Cloud Run - GDG DevFest Melboure, 7-Oct-2023
+* From 0 to working serverless url for a containerized app with Google Cloud Run - [GDG DevFest Melbourne](https://gdg-melbourne-devfest-2023.sessionize.com/), 7-Oct-2023
 
 ## Past
 
