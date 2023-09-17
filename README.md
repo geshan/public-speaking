@@ -1,12 +1,11 @@
 # Geshan Public Speaking
 
-A timeline of most of my public speaking done for tech conferences and meetups. All my talks are in English. 
+A timeline of most of my public speaking done for tech conferences and meetups. All my talks are in English.
 
-I am open to speaking offers, mainly in Sydney, Australia. The best way to reach me is by 
+I am open to speaking offers, mainly in Sydney, Australia. The best way to reach me is by
 [email](mailto:geshan@gmail.com?subject=Interested%20for%20a%20talk%3F), thanks!.
 
-Inspired by other public-speaking repos like [these](https://github.com/ahmetb/public-speaking) 
-[ones](https://github.com/danicat/public-speaking).
+Inspired by other public-speaking repos like [these](https://github.com/ahmetb/public-speaking) [ones](https://github.com/danicat/public-speaking).
 
 ## Speaker Bio
 
@@ -14,14 +13,14 @@ Geshan is a seasoned software engineer, with over 15 years of software engineeri
 
 ## Future
 
-* One talk in Sep-2023
-* One talk in Oct-2023
+* From 0 to working serverless url for a containerized app with Google Cloud Run - GDG DevFest Melboure, 7-Oct-2023
 
 ## Past
 
 | Date        | Event                                                                                                                             | Talk/Slides 📜                                                                                                                                                                                                                 | Video 📹                                                         | Attendance | Mention                                                                                                                        |
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------|
 | **2023 ⬇️** | --                                                                                                                                | --                                                                                                                                                                                                                            | --                                                              | --         | --                                                                                                                               |
+| 16-Sep-2023 | Google Developers Students Club (GDSC) Summit Sydney 2023 🇦🇺                                            | [The art of impactful presentations: Tips for engaging your audience](https://docs.google.com/presentation/d/1t3M71hSW-l4Cv66ggF4zcp-62_NPKPgCaGglNcz4j20/edit?usp=sharing)                              | -                                                              | ~35        | [here](https://www.linkedin.com/feed/update/urn:li:activity:7109292316007284736/)                            |
 | 24-Jun-2023 | [Ace Your Career: Tips & Tricks from the Pros](https://www.eventbrite.com.au/e/gdsc-usyd-x-unsw-x-gdg-sydney-ace-your-career-tips-tricks-from-the-pros-tickets-650487695207) 🇦🇺                                            | [How to craft your resume the right way](https://docs.google.com/presentation/d/1udFY8UTdH5awjVzHHCapuQ6LoisZa4_vy23GBFsu1RQ/edit?usp=sharing)                              | [link](https://www.youtube.com/watch?v=moP8Qjv9gaU)                                                              | ~65        | [here](https://www.linkedin.com/feed/update/urn:li:activity:7078607546718064641/)                            |
 | 26-May-2023 | [GDG Darwin Meetup - May 2023](https://www.meetup.com/gdg-darwin/events/293343872/) 🇦🇺                                            | [From 0 to working serverless url for a containerized app with Google Cloud Run](https://docs.google.com/presentation/d/1Ir0cAS4084Smy64BQ0kXaPDx1UsiUfmkmUZ0Ax2xW60/edit?usp=sharing) - Online                               | -                                                               | ~60        | [here](https://www.linkedin.com/posts/geshan_google-developer-event-ugcPost-7068783432713056256-nzkl)                            |
 | 25-May-2023 | [GDG Cloud Sydney Meetup May 2023](https://www.meetup.com/gdgcloudsydney/events/292947927/) 🇦🇺                                    | [Free GCP credits + a side project (ATJ) = 10+ first full-time tech jobs](https://docs.google.com/presentation/d/1PU5qHaS1OU8gCzqoc3OZRWy0nqqYaZVeu_3UcViEylM/edit?usp=sharing)                                               | [link](https://www.youtube.com/watch?v=8eGbNp7qb_Q)             | ~110       | [here](https://www.linkedin.com/posts/geshan_sydney-meetup-gde-activity-7067739792779710464-_v-t)                                |
@@ -47,13 +46,9 @@ Geshan is a seasoned software engineer, with over 15 years of software engineeri
 | 25-Jun-2016 | [PHP Developers Nepal Meetup #16](https://www.facebook.com/events/144558125955439/) 🇳🇵                                            | [Do you Git your code? Follow simplified gitflow branching model to improve productivity](https://www.slideshare.net/geshan/do-you-git-your-code-follow-simplified-gitflow-branching-model-to-improve-productivity)           | [link](https://www.youtube.com/watch?v=jznORrhoV-M)             | ~100       | [here](https://geshan.com.np/blog/2016/06/php-developers-nepal-meetup-number-16-a-round-up-and-my-simpilfied-gitflow-talk/)      |
 | 01-Apr-2016 | [CodeMotion Dubai 2016](https://dubai2016.codemotionworld.com/) 🇦🇪                                                                | [Embrace chatops, stop installing deployment software](https://www.slideshare.net/geshan/embrace-chatops-stop-installing-deployment-software-draft-1)                                                                         | [link](https://www.youtube.com/watch?v=GVa1I2QiZs4)             | ~40        | [here](https://geshan.com.np/blog/2016/04/embrace-chatops-stop-installing-deployment-software/)                                  |
 
-
-* I have not included some talks done internally for places I work or worked for and when I spoke at colleges
-in Kathmandu, Nepal.
-* A longer (but less organized) list is available on by [blog](https://geshan.com.np/blog/categories/talks/) with
-talks from as early as [2010](https://geshan.com.np/blog/2010/08/drupal-non-technical-introduction-at/).
-* You can go to this [Youtube playlist](https://www.youtube.com/watch?v=6I1MK3lNZPI&list=PLhTqkNYfkucwyaMujDSSPkqQj5uTO9alh&index=1)
-which has most of my talks.
+* I have not included some talks done internally for places I work or worked for and when I spoke at colleges in Kathmandu, Nepal.
+* A longer (but less organized) list is available on by [blog](https://geshan.com.np/blog/categories/talks/) with talks from as early as [2010](https://geshan.com.np/blog/2010/08/drupal-non-technical-introduction-at/).
+* You can go to this [Youtube playlist](https://www.youtube.com/watch?v=6I1MK3lNZPI&list=PLhTqkNYfkucwyaMujDSSPkqQj5uTO9alh&index=1) which has most of my talks.
 
 ## Some Pictures
 
