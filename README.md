@@ -13,7 +13,7 @@ Geshan is a seasoned software engineer, with over 15 years of software engineeri
 
 ## Future
 
-* One coming up in Feb at Adelaide (hopefully)
+* None planned
 
 ## Past
 
