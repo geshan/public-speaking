@@ -13,7 +13,7 @@ Geshan is a seasoned software engineer, with over 15 years of software engineeri
 
 ## Future
 
-* Something in June/July 2024 (probably)  
+* 12-Jul-2024 for [Google I/O Extended Adelaide 2024](https://gdg.community.dev/events/details/google-gdg-adelaide-presents-google-io-extended-adelaide/) - You build it, Google runs it (serverlessly) in containers
 
 ## Past
 
