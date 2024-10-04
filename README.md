@@ -13,7 +13,8 @@ Geshan is a seasoned software engineer, with over 15 years of software engineeri
 
 ## Future
 
-* None planned as of now
+* [GDG DevFest Hobart 2024](https://gdg.community.dev/events/details/google-gdg-hobart-presents-gdg-hobart-devfest-2024/) on 25-Oct-2024 - [How to build an E-commerce product description generator using Gemini](https://docs.google.com/presentation/d/1WboHu9zHIQLoiW_RO20KXLQb6twLdGLBNy_e3iadk94/edit?usp=sharing)
+* [GDG DevFest Auckland 2024](https://devfest.gdgauckland.nz/) on 10-Nov-2024 - [You build it, Google runs it (serverlessly) in containers](https://docs.google.com/presentation/d/15UaZqOV41dnjnarWUmqsvnFQdTjkEpBCDM4RgDMDoNk/edit?usp=sharing)
 
 ## Past
 
