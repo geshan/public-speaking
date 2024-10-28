@@ -1,6 +1,6 @@
 # Geshan Public Speaking
 
-A timeline of most of my public speaking done for tech conferences and meetups. All my talks are in English.
+Here is a timeline of most of my public speaking for tech conferences and meetups. All my talks are in English.
 
 I am open to speaking offers, mainly in Sydney, Australia. The best way to reach me is by
 [email](mailto:geshan@gmail.com?subject=Interested%20for%20a%20talk%3F), thanks!.
@@ -9,7 +9,7 @@ Inspired by other public-speaking repos like [these](https://github.com/ahmetb/p
 
 ## Speaker Bio
 
-Geshan is a seasoned software engineer, with over 15 years of software engineering experience. Currently, in Sydney, Australia serving Simply Wall St. as a senior software engineer. He is a language-agnostic software engineer who believes the value provided to the business is more important than the choice of language or framework. With a keen interest in REST architecture, microservices, agile software engineering, and serverless, he has spoken at tech conferences in the Middle East, Europe, the United States, and Australia. He is actively involved with the developer community and is a Google Developer Expert (GDE) for the Google Cloud Platform (GCP). He is a certified scrum master too. Blogging since 2007, he has a well-maintained tech [blog](https://geshan.com.np) where he shares his views and ideas.
+Geshan is a seasoned software engineer with over 15 years of software engineering experience. Currently, in Sydney, Australia, serving Simply Wall St. as a senior software engineer. He is a language-agnostic software engineer who believes the value provided to the business is more important than the choice of language or framework. With a keen interest in REST architecture, microservices, agile software engineering, and serverless, he has spoken at tech conferences in the Middle East, Europe, the United States, and Australia. He is actively involved with the developer community and is a Google Developer Expert (GDE) for the Google Cloud Platform (GCP). He is a certified scrum master, too. Blogging since 2007, he has a well-maintained tech [blog](https://geshan.com.np) , where he shares his views and ideas.
 
 ## Future
 
@@ -54,7 +54,7 @@ Geshan is a seasoned software engineer, with over 15 years of software engineeri
 | 25-Jun-2016 | [PHP Developers Nepal Meetup #16](https://www.facebook.com/events/144558125955439/) 🇳🇵                                            | [Do you Git your code? Follow simplified gitflow branching model to improve productivity](https://www.slideshare.net/geshan/do-you-git-your-code-follow-simplified-gitflow-branching-model-to-improve-productivity)           | [link](https://www.youtube.com/watch?v=jznORrhoV-M)             | ~100       | [here](https://geshan.com.np/blog/2016/06/php-developers-nepal-meetup-number-16-a-round-up-and-my-simpilfied-gitflow-talk/)      |
 | 01-Apr-2016 | [CodeMotion Dubai 2016](https://dubai2016.codemotionworld.com/) 🇦🇪                                                                | [Embrace chatops, stop installing deployment software](https://www.slideshare.net/geshan/embrace-chatops-stop-installing-deployment-software-draft-1)                                                                         | [link](https://www.youtube.com/watch?v=GVa1I2QiZs4)             | ~40        | [here](https://geshan.com.np/blog/2016/04/embrace-chatops-stop-installing-deployment-software/)                                  |
 
-* I have not included some talks done internally for places I work or worked for and when I spoke at colleges in Kathmandu, Nepal.
+* I have not included some talks I gave internally for places I work or worked for or when I spoke at colleges in Kathmandu, Nepal.
 * A longer (but less organized) list is available on by [blog](https://geshan.com.np/blog/categories/talks/) with talks from as early as [2010](https://geshan.com.np/blog/2010/08/drupal-non-technical-introduction-at/).
 * You can go to this [Youtube playlist](https://www.youtube.com/watch?v=6I1MK3lNZPI&list=PLhTqkNYfkucwyaMujDSSPkqQj5uTO9alh&index=1) which has most of my talks.
 
@@ -64,7 +64,7 @@ Geshan is a seasoned software engineer, with over 15 years of software engineeri
 
 ![Speaking about getting your first tech job at GDG Meetup May 2023](photos/gdg-cloud-sydney-may-23.jpg)
 
-### Laracon EU 2019
+### Laracon AU 2019
 
 ![Speaking about Logging Best Practices at Laracon AU 2019](https://live.staticflickr.com/65535/49021890866_733f19737b_b.jpg)
 
