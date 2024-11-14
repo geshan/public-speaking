@@ -5,20 +5,29 @@ Here is a timeline of most of my public speaking for tech conferences and meetup
 I am open to speaking offers, mainly in Sydney, Australia. The best way to reach me is by
 [email](mailto:geshan@gmail.com?subject=Interested%20for%20a%20talk%3F), thanks!.
 
-Inspired by other public-speaking repos like [these](https://github.com/ahmetb/public-speaking) [ones](https://github.com/danicat/public-speaking).
+Inspired by other public-speaking repos like [these](https://github.com/ahmetb/public-speaking) 
+[ones](https://github.com/danicat/public-speaking).
 
 ## Speaker Bio
 
-Geshan is a seasoned software engineer with over 15 years of software engineering experience. Currently, in Sydney, Australia, serving Simply Wall St. as a senior software engineer. He is a language-agnostic software engineer who believes the value provided to the business is more important than the choice of language or framework. With a keen interest in REST architecture, microservices, agile software engineering, and serverless, he has spoken at tech conferences in the Middle East, Europe, the United States, and Australia. He is actively involved with the developer community and is a Google Developer Expert (GDE) for the Google Cloud Platform (GCP). He is a certified scrum master, too. Blogging since 2007, he has a well-maintained tech [blog](https://geshan.com.np) , where he shares his views and ideas.
+Geshan is a seasoned software engineer with over 17 years of software engineering experience. Currently,
+in Sydney, Australia, serving Simply Wall St. as a senior software engineer. He is a language-agnostic
+software engineer who believes the value provided to the business is more important than the choice of
+language or framework. With a keen interest in REST architecture, microservices, agile software engineering,
+and serverless, he has spoken at tech conferences in the Middle East, Europe, the United States,
+and Australia. He is actively involved with the developer community and is a Google Developer Expert (GDE)
+for the Google Cloud Platform (GCP). He is a certified scrum master, too. Blogging since 2007, he has a
+well-maintained tech [blog](https://geshan.com.np) , where he shares his views and ideas.
 
 ## Future
 
-* [GDG DevFest Auckland 2024](https://devfest.gdgauckland.nz/) on 10-Nov-2024 - [You build it, Google runs it (serverlessly) in containers](https://docs.google.com/presentation/d/15UaZqOV41dnjnarWUmqsvnFQdTjkEpBCDM4RgDMDoNk/edit?usp=sharing)
+* None planned at the moment.
 
 ## Past
 
 | Date        | Event                                                                                                                             | Talk/Slides 📜                                                                                                                                                                                                                 | Video 📹                                                         | Attendance | Mention                                                                                                                        |
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------|
+| 10-Nov-2024 | [GDG Auckland DevFest 2024](https://devfest.gdgauckland.nz/#schedule) 🇳🇿  | [You build it, Google runs it (serverlessly) in containers](https://docs.google.com/presentation/d/15UaZqOV41dnjnarWUmqsvnFQdTjkEpBCDM4RgDMDoNk/edit?usp=sharing)                              | -                                                         | ~80        | [here](https://www.linkedin.com/feed/update/urn:li:activity:7262967034626416642/)                            |
 | 25-Oct-2024 | [GDG Hobart DevFest 2024](https://gdg.community.dev/events/details/google-gdg-hobart-presents-gdg-hobart-devfest-2024/) 🇦🇺  | [How to build an E-commerce product description generator using Gemini](https://docs.google.com/presentation/d/1WboHu9zHIQLoiW_RO20KXLQb6twLdGLBNy_e3iadk94/edit?usp=sharing)                              | -                                                         | ~40        | [here](https://www.linkedin.com/posts/geshan_devfest-hobart-devfest-activity-7256078759454224385-UzzO/)                            |
 | 12-Jul-2024 | [Google I/O Extended Adelaide 2024](https://gdg.community.dev/events/details/google-gdg-adelaide-presents-google-io-extended-adelaide/) 🇦🇺  | [You build it, Google runs it (serverlessly) in containers](https://docs.google.com/presentation/d/15UaZqOV41dnjnarWUmqsvnFQdTjkEpBCDM4RgDMDoNk/edit?usp=sharing)                              | -                                                         | ~55        | [here](https://www.linkedin.com/posts/geshan_flutter-google-googleioextended-activity-7218051855166132224-9g7L)                            |
 | 30-May-2024 | [Cloudheads Meetup May 2024 - Serverless crafters](https://events.humanitix.com/serverless-crafters) 🇦🇺                                            | [You build it, Google runs it (serverlessly) in containers](https://docs.google.com/presentation/d/15UaZqOV41dnjnarWUmqsvnFQdTjkEpBCDM4RgDMDoNk/edit?usp=sharing)                              | [link](https://youtu.be/L5DN8ztZ3Ko)                                                         | ~35        | [here](https://www.linkedin.com/posts/geshan_it-felt-great-to-speak-at-cloudheads-may-activity-7202097197499232256--5I4/)                            |
@@ -59,6 +68,10 @@ Geshan is a seasoned software engineer with over 15 years of software engineerin
 * You can go to this [Youtube playlist](https://www.youtube.com/watch?v=6I1MK3lNZPI&list=PLhTqkNYfkucwyaMujDSSPkqQj5uTO9alh&index=1) which has most of my talks.
 
 ## Some Pictures
+
+### GDG Auckland DevFest 2024
+
+![Speaking about Serverless containers and Cloud Run at GDG Auckland DevFest 2024](photos/gdg-devfest-auckland-nov-2024.jpg)
 
 ### GDG Cloud Sydney May 2023 Meetup
 
