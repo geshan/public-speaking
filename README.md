@@ -21,8 +21,10 @@ well-maintained tech [blog](https://geshan.com.np), where he shares his views an
 
 ## Future
 
-* A talk in Feb 2025
-* Another talk in Mar 2025
+* On 23-Jan-2025 for [DevOps Sydney meetup Jan 2025](https://www.meetup.com/devops-sydney/events/304821878/) - You build it, Google runs it (serverlessly) in containers 
+* on 4-Feb-2025 for [GDG Cloud Sydney meetup Feb 2025](https://gdg.community.dev/events/details/google-gdg-cloud-sydney-presents-gdg-cloud-sydney-meetup-feburary-2025/) - Modernise web scraping: use a self-hosted LLM to extract data from (almost) any website
+* Another talk in Mar 2025 (on a new topic)
+* Possibly a talk/workshop in Apr 2025
 
 ## Past
 
