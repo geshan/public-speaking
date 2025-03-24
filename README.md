@@ -21,7 +21,7 @@ well-maintained tech [blog](https://geshan.com.np), where he shares his views an
 
 ## Future
 
-* Possibly a talk/workshop in Apr 2025
+* How to use Gemini to figure out the (almost) exact location from any photo[Workshop] - [Build with AI Canberra](https://gdg.community.dev/events/details/google-gdg-canberra-presents-build-with-ai-workshop/) on 4-Apr-2025
 
 ## Past
 
