@@ -5,8 +5,7 @@ Here is a timeline of most of my public speaking for tech conferences and meetup
 I am open to speaking offers, mainly in Sydney, Australia. The best way to reach me is by
 [email](mailto:geshan@gmail.com?subject=Interested%20for%20a%20talk%3F), thanks!.
 
-Inspired by other public-speaking repos like [these](https://github.com/ahmetb/public-speaking) 
-[ones](https://github.com/danicat/public-speaking).
+Inspired by other public-speaking repos like [these](https://github.com/ahmetb/public-speaking) [ones](https://github.com/danicat/public-speaking).
 
 ## Speaker Bio
 
@@ -73,6 +72,10 @@ well-maintained tech [blog](https://geshan.com.np), where he shares his views an
 * You can go to this [Youtube playlist](https://www.youtube.com/watch?v=6I1MK3lNZPI&list=PLhTqkNYfkucwyaMujDSSPkqQj5uTO9alh&index=1) which has most of my talks.
 
 ## Some Pictures
+
+### Programmable Sydney 2025
+
+![Speaking about Feature flags at GDG Auckland DevFest 2024](photos/geshan-programmable-sydney-2025.jpg)
 
 ### GDG Auckland DevFest 2024
 
