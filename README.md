@@ -13,7 +13,9 @@ Geshan is a seasoned software engineer with over 17 years of software engineerin
 
 ## Future
 
-* None planned
+* [Tech Career Panel Discussion](https://i.ibb.co/ds0w9YkF/cqu-12-nov-2025-event.jpg) at [Innovation Showcase & Networking Night hosted by the CQU Initiation & Innovation Club](https://www.linkedin.com/feed/update/urn:li:activity:7393576061407633421/) on 12-Nov-2025, Sydney Australia
+* [Embrace feature flags, unlock better customer experience and developer confidence](https://docs.google.com/presentation/d/1xpOBI1FoQR0HmQbG-GHodShBQ06z6jV74IVjEpWPINo/edit?usp=sharing) at [Web Directions Dev Summit 2025, Sydney, Australia](https://web.archive.org/web/20251110221302/https://webdirections.org/dev-summit/speakers/geshan-manandhar.php) on 19-Nov-2025, Sydney Australia
+* [Embrace feature flags, unlock better customer experience and developer confidence](https://docs.google.com/presentation/d/1xpOBI1FoQR0HmQbG-GHodShBQ06z6jV74IVjEpWPINo/edit?usp=sharing) at [Devops Days Wollongong 2025, Wollongong, Australia](https://devopsdays.org/events/2025-wollongong/welcome/) on 28-Nov-2025, Wollongong, Australia
 
 ## Past
 
