@@ -13,7 +13,7 @@ Geshan is a seasoned software engineer with over 17 years of software engineerin
 
 ## Future
 
-* [Embrace feature flags, unlock better customer experience and developer confidence](https://docs.google.com/presentation/d/1xpOBI1FoQR0HmQbG-GHodShBQ06z6jV74IVjEpWPINo/edit?usp=sharing) at [Devops Days Wollongong 2025, Wollongong, Australia](https://devopsdays.org/events/2025-wollongong/welcome/) on 28-Nov-2025, Wollongong, Australia
+* Resume reviewer workshop at [Build With AI Darwin 2026](https://gdg.community.dev/events/details/google-gdg-darwin-presents-build-with-ai-2026/) on 10-Apr-2026
 
 ## Past
 
