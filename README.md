@@ -9,7 +9,7 @@ Inspired by other public-speaking repos like [these](https://github.com/ahmetb/p
 
 ## Speaker Bio
 
-Geshan is a seasoned software engineer with over 17 years of software engineering experience. Currently, he serves Simply Wall St. as a senior software engineer in Sydney, Australia. He is a language-agnostic software engineer who believes the value provided to the business is more important than the choice of language or framework. With a keen interest in REST architecture, microservices, agile software engineering, and serverless, he has spoken at tech conferences in the Middle East, Europe, the United States, and Australia. He is actively involved with the developer community and is a Google Developer Expert (GDE) for the Google Cloud Platform (GCP). He is a Docker Captain, too. Blogging since 2007, he has a well-maintained tech blog, where he shares his views and ideas.
+Geshan is a seasoned software engineer with over 17 years of software engineering experience. Currently, he serves as a technical lead at Safewill in Sydney, Australia. He is a language-agnostic software engineer who believes the value provided to the business is more important than the choice of language or framework. With a keen interest in REST architecture, microservices, agile software engineering, and serverless, he has spoken at tech conferences in the Middle East, Europe, the United States, and Australia. He is actively involved with the developer community and is a Google Developer Expert (GDE) for the Google Cloud Platform (GCP). He is a Docker Captain, too. Blogging since 2007, he has a well-maintained tech blog, where he shares his views and ideas.
 
 ## Future
 
